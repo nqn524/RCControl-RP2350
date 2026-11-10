@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "RCControl_ESmirth"
 version = "1"
 authors = [
-  { name="E. Smirthwaite", email="nqn524@york.ac.uk" },
+  { name="E Smirthwaite", email="nqn524@york.ac.uk" },
 ]
 description = "Library for the UOY Robotic Society"
 readme = "README.md"
