@@ -1,23 +1,11 @@
 [build-system]
-requires = ["hatchling >= 1.26"]
-build-backend = "hatchling.build"
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "RCControl_ESmirth"
-version = "1"
-authors = [
-  { name="E Smirthwaite", email="nqn524@york.ac.uk" },
+version = "0.0.1"
+dependencies = [
+    "picozero",
+    "microdot",
 ]
-description = "Library for the UOY Robotic Society"
-readme = "README.md"
-requires-python = ">=3.9"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "Operating System :: OS Independent",
-]
-license = "MIT"
-license-files = ["LICEN[CS]E*"]
-
-[project.urls]
-Homepage = "https://github.com/nqn524/RCControl-RP2350"
-Issues = "https://github.com/nqn524/RCControl-RP2350/issues"
