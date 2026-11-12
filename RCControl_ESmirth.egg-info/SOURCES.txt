@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+RCControl/__init__.py
+RCControl/example.py
+RCControl/website/index.html
+RCControl/website/joystick.js
+RCControl_ESmirth.egg-info/PKG-INFO
+RCControl_ESmirth.egg-info/SOURCES.txt
+RCControl_ESmirth.egg-info/dependency_links.txt
+RCControl_ESmirth.egg-info/requires.txt
+RCControl_ESmirth.egg-info/top_level.txt

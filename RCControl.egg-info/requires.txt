@@ -1,0 +1,2 @@
+picozero==0.6.1
+microdot==2.7.0
